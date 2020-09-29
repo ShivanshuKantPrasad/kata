@@ -1,0 +1,16 @@
+[
+    {
+        "arguments": [
+            "clang",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-pedantic",
+            "-o",
+            "Build/BoolfuckInterpreter",
+            "BoolfuckInterpreter.c"
+        ],
+        "directory": "/home/shivanshu/Documents/codewars/c",
+        "file": "BoolfuckInterpreter.c"
+    }
+]
